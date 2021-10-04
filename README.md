@@ -1,4 +1,2 @@
-## Personal Portfolio
+A portfolio website
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
-# portfolio
